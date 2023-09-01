@@ -14,4 +14,9 @@ O objetivo principal é garantir que as informações fornecidas estejam formata
 * Verifica se um CPF é válido de acordo com os critérios estabelecidos pela Receita Federal.
 * Realiza a validação dos dígitos verificadores.
 
-### 
+### Registro de Tempo Cadastrado
+* Registra o tempo em que os cadastros foram realizados.
+
+### Contribuição
+Sinta-se à vontade para contribuir com este projeto. Você pode adicionar novas funcionalidades, melhorar a interface do usuário ou corrigir problemas existentes. 
+Abra um pull request e descreva suas alterações.
