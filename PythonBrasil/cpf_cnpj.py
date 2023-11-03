@@ -4,9 +4,9 @@ class Documento:
     @staticmethod
     def cria_documento(documento):
         if len(documento) == 11:
-            return DocCpf(documento)
+            return(f"CPF: {DocCpf(documento)}")
         elif len(documento) == 14:
-            return DocCnpj(documento)
+            return(f"CNPJ: {DocCnpj(documento)}")
         else:
             raise ValueError("Quantidade de digitos inválida!!!")
 
